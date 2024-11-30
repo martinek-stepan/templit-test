@@ -1,0 +1,1 @@
+This is example template repository using Templit. To add more templates, create new branch from latest main.
